@@ -23,6 +23,10 @@
   "author": "Vanessa",
   "url": "https://github.com/siyuan-note/template-sample",
   "version": "0.0.1",
+  "displayName": {
+    "default": "Template Sample",
+    "zh_CN": "模板示例"
+  },
   "description": {
     "default": "This is a template sample",
     "zh_CN": "这是一个模板示例"
@@ -50,6 +54,9 @@
 * `author`：模板作者名
 * `url`：模板仓库地址
 * `version`：模板版本号，建议遵循 [semver](https://semver.org/lang/zh-CN/) 规范
+* `displayName`：模板显示名称，主要用于模板集市列表中显示，支持多语言
+    * `default`：默认语言，必须存在
+    * `zh_CN`、`en_US` 等其他语言：可选，建议至少提供中文和英文
 * `description`：模板描述，主要用于模板集市列表中显示，支持多语言
     * `default`：默认语言，必须存在
     * `zh_CN`、`en_US` 等其他语言：可选，建议至少提供中文和英文

@@ -25,6 +25,10 @@
   "author": "Vanessa",
   "url": "https://github.com/siyuan-note/template-sample",
   "version": "0.0.1",
+  "displayName": {
+    "default": "Template Sample",
+    "zh_CN": "模板示例"
+  },
   "description": {
     "default": "This is a template sample",
     "zh_CN": "这是一个模板示例"
@@ -53,6 +57,9 @@
 * `author`: Template author name
 * `url`: Template repo URL
 * `version`: Template version number, it is recommended to follow the [semver](https://semver.org/) specification
+* `displayName`: Template display name, mainly used for display in the marketplace list, supports multiple languages
+    * `default`: Default language, must exist
+    * `zh_CN`, `en_US` and other languages: optional, it is recommended to provide at least Chinese and English
 * `description`: Template description, mainly used for display in the marketplace list, supports multiple languages
     * `default`: Default language, must exist
     * `zh_CN`, `en_US` and other languages: optional, it is recommended to provide at least Chinese and English
