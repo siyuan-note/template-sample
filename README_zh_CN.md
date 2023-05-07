@@ -70,8 +70,8 @@
 * icon.png
 * preview.png
 * README*.md
-* template.css
 * template.json
+* *.md
 
 ## 上架集市
 
