@@ -1,6 +1,6 @@
 [English](https://github.com/siyuan-note/template-sample/blob/main/README.md)
 
-# 思源笔记主题示例
+# 思源笔记模板示例
 
 ## 开始
 
