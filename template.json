@@ -3,6 +3,7 @@
   "author": "Vanessa",
   "url": "https://github.com/siyuan-note/template-sample",
   "version": "0.0.1",
+  "minAppVersion": "2.9.0",
   "displayName": {
     "default": "Template Sample",
     "zh_CN": "模板示例"
