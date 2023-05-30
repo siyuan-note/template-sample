@@ -22,7 +22,7 @@
   "name": "template-sample",
   "author": "Vanessa",
   "url": "https://github.com/siyuan-note/template-sample",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "minAppVersion": "2.9.0",
   "displayName": {
     "default": "Template Sample",
@@ -37,7 +37,7 @@
     "zh_CN": "README_zh_CN.md"
   },
   "funding": {
-    "openCollective": "b3log",
+    "openCollective": "",
     "patreon": "",
     "github": "",
     "custom": [
