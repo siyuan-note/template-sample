@@ -87,11 +87,7 @@ least the following files:
 
 ### Use Github Action
 
-1. In your repo setting page `https://github.com/OWNER/REPO/settings/actions`, down to **Workflow Permissions** and open the configuration like this:
-
-    ![](https://github.com/siyuan-note/plugin-sample-vite-svelte/blob/main/asset/action.png?raw=true)
-
-2. Push a tag in the format `v*` and github will automatically create a new release with new bulit package.zip
+Push a tag in the format `v*` and github will automatically create a new release with new bulit package.zip
 
 ## List on the marketplace
 
