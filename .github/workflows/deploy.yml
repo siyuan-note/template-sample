@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Checkout
       - name: Checkout
@@ -19,7 +21,7 @@ jobs:
           ./script/make-zip.sh
 
       - name: Release
-        uses: ncipollo/release-action@v1
+        uses: ncipollo/release-action@cdcc88a9acf3ca41c16c37bb7d21b9ad48560d87  # v1.15.0
         with:
           allowUpdates: true
           artifactErrorsFailBuild: true
