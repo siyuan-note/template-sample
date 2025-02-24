@@ -83,11 +83,7 @@
 
 ### 使用 Github Action 打包
 
-1. 设置项目 `https://github.com/OWNER/REPO/settings/actions` 页面向下划到 **Workflow Permissions**，打开配置
-
-    ![](https://github.com/siyuan-note/plugin-sample-vite-svelte/blob/main/asset/action.png?raw=true)
-
-2. 需要发布版本的时候, push 一个格式为 `v*` 的 tag, github 就会自动打包发布 release（包括 package.zip）
+需要发布版本的时候, push 一个格式为 `v*` 的 tag, github 就会自动打包发布 release（包括 package.zip）
 
 
 ## 上架集市
