@@ -2,19 +2,19 @@
   "name": "template-sample",
   "author": "Vanessa",
   "url": "https://github.com/siyuan-note/template-sample",
-  "version": "0.0.3",
-  "minAppVersion": "2.9.0",
+  "version": "0.0.4",
+  "minAppVersion": "3.7.0",
   "displayName": {
     "default": "Template Sample",
-    "zh_CN": "模板示例"
+    "zh-CN": "模板示例"
   },
   "description": {
     "default": "This is a template sample",
-    "zh_CN": "这是一个模板示例"
+    "zh-CN": "这是一个模板示例"
   },
   "readme": {
     "default": "README.md",
-    "zh_CN": "README_zh_CN.md"
+    "zh-CN": "README_zh-CN.md"
   },
   "funding": {
     "openCollective": "",
